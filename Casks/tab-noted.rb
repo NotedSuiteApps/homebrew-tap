@@ -1,6 +1,6 @@
 cask "tab-noted" do
-  version "27.1.116"
-  sha256 "3bf4102bc7d25f04e80c04834edba26d284d4109e28740a6b41e9ae0829f3766"
+  version "27.2.117"
+  sha256 "dd2eed86304ea60cb511ddfe2478a42480dc8fda2a53becc90ce5dd103935d07"
 
   url "https://github.com/NotedSuiteApps/Tab.Noted/releases/download/v#{version}/Tab.Noted-#{version}.dmg"
   name "Tab.Noted"
