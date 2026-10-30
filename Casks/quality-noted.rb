@@ -21,7 +21,10 @@ cask "quality-noted" do
   zap trash: [
     "~/Library/Application Support/QualityNoted",
     "~/Library/Caches/com.qualitynoted.app",
+    "~/Library/Caches/QualityNoted",
     "~/Library/HTTPStorages/com.qualitynoted.app",
+    "~/Library/HTTPStorages/com.qualitynoted.app.binarycookies",
     "~/Library/Preferences/com.qualitynoted.app.plist",
+    "~/Library/Saved Application State/com.qualitynoted.app.savedState",
   ]
 end
