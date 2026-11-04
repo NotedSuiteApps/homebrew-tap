@@ -4,8 +4,8 @@ cask "rae-noted" do
 
   url "https://github.com/NotedSuiteApps/Rae.Noted/releases/download/v#{version}/Rae.Noted-#{version}.zip"
   name "Rae.Noted"
-  desc "Wi-Fi scanner for home and office troubleshooting"
-  homepage "https://github.com/NotedSuiteApps/Rae.Noted"
+  desc "Wi-Fi analyzer for home and office troubleshooting"
+  homepage "https://rae.notedsuite.app/"
 
   livecheck do
     url :url
