@@ -1,6 +1,6 @@
 cask "quality-noted" do
-  version "27.1.1178"
-  sha256 "e921c6a3e740c6cd0eaa0d880f1ded0741f1ef3c80f980eb9c0d46b12fd921d2"
+  version "27.1.1371"
+  sha256 "55b4dfa4a7db37c11b9030021f2e52b97d7737926a06a6d553d2c06b68430154"
 
   url "https://github.com/NotedSuiteApps/Quality.Noted/releases/download/v#{version}/Quality.Noted-#{version}.zip"
   name "Quality.Noted"
@@ -14,7 +14,7 @@ cask "quality-noted" do
 
   auto_updates true
   depends_on arch: :arm64
-  depends_on macos: :sonoma
+  depends_on macos: :tahoe
 
   app "Quality.Noted.app"
 
