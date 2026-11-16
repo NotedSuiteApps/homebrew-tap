@@ -1,6 +1,6 @@
 cask "quality-noted" do
-  version "27.1.1371"
-  sha256 "55b4dfa4a7db37c11b9030021f2e52b97d7737926a06a6d553d2c06b68430154"
+  version "27.1.1445"
+  sha256 "2ad13002de36ea6c2539b6b0c087b428ad5078c8b4e4a4e7746c597079a7c30b"
 
   url "https://github.com/NotedSuiteApps/Quality.Noted/releases/download/v#{version}/Quality.Noted-#{version}.zip"
   name "Quality.Noted"
